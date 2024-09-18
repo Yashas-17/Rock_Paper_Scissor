@@ -1,0 +1,13 @@
+.game-item-container {
+  width: 40%;
+}
+.choice-img {
+  width: 100%;
+  height: auto;
+}
+.choice-button {
+  width: 40%;
+  height: auto;
+  background-color: transparent;
+  border: 0;
+}
